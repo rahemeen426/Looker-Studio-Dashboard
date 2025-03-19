@@ -40,17 +40,17 @@ This project leverages **Looker Studio** to visualize key energy metrics across 
 To make data exploration easier, I developed a **Looker Studio Dashboard** where users can filter insights by year and country.  
 🔗 **Explore it here:** [Global Energy Dashboard](https://lookerstudio.google.com/s/mdSpfLUyEdE)  
 [Dashboard]: 
-<p align="center">
+<p align="right">
   <img src="https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0001.jpg" width="600">
 </p>
 
 <p align="center">
   <img src="https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0002.jpg" width="600">
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0003.jpg" width="600">
 </p>
-<p align="center">
+<p align="right">
   <img src="https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0004.jpg" width="600">
 </p>
 
