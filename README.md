@@ -1,4 +1,4 @@
-# 🌍 Global Sustainable Energy Trends (2000–2020) - Data Visualization  (LOOKER STUDIO)
+# Global Sustainable Energy Trends (2000–2020) - Data Visualization  (LOOKER STUDIO)
 
 This repository contains my **Data Visualization Lab Project**, where I analyzed **global sustainable energy trends from 2000 to 2020**. Using interactive dashboards, I explored **renewable energy growth, carbon emissions, energy access, and economic impact** to provide actionable insights for policymakers, researchers, and industry professionals.  
 
@@ -56,7 +56,7 @@ To make data exploration easier, I developed a **Looker Studio Dashboard** where
 ## 📢 Contributions & Feedback  
 
 If you have suggestions, insights, or feedback, feel free to:  
-💬 Comment on LinkedIn: [My LinkedIn Post](https://www.linkedin.com/)  
+💬 Comment on LinkedIn: [My LinkedIn Post]([(https://www.linkedin.com/in/rahemeen-khan-94841a111/)]  
 📧 Contact me for collaboration opportunities!  
 
 **#DataScience #DataVisualization #RenewableEnergy #Sustainability #MachineLearning #ClimateChange #LookerStudio #EnergyEfficiency**  
