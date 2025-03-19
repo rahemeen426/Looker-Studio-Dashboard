@@ -56,7 +56,7 @@ To make data exploration easier, I developed a **Looker Studio Dashboard** where
 ## 📢 Contributions & Feedback  
 
 If you have suggestions, insights, or feedback, feel free to:  
-💬 Comment on LinkedIn: [My LinkedIn Post]([(https://www.linkedin.com/in/rahemeen-khan-94841a111/)]  
+💬 Comment on LinkedIn: [My LinkedIn Post](https://www.linkedin.com/in/rahemeen-khan-94841a111/) 
 📧 Contact me for collaboration opportunities!  
 
 **#DataScience #DataVisualization #RenewableEnergy #Sustainability #MachineLearning #ClimateChange #LookerStudio #EnergyEfficiency**  
