@@ -43,10 +43,16 @@ To make data exploration easier, I developed a **Looker Studio Dashboard** where
 <p align="center">
   <img src="https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0001.jpg" width="600">
 </p>
-(https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0001.jpg)
-(https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0002.jpg)
-(https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0003.jpg)
-(https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0004.jpg)
+
+<p align="center">
+  <img src="https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0002.jpg" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0003.jpg" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/rahemeen426/Looker-Studio-Dashboard/blob/main/Data_Aspirant_page-0004.jpg" width="600">
+</p>
 
 ## 📌 Key Takeaways  
 
